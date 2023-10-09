@@ -1,0 +1,10 @@
+- Type the word "Coffee" in the search bar, the app should provide a list of entries, please select the first entry (which should be "Coffee").
+- Listen to the pronunciation of the word by selecting the speaker button. Then read the IPA (International Phonetic Alphabet) of the word. You may need to select the "Show IPA" link to reveal the IPA of the word.
+- On the same page, read the definition of the word "coffee". It should start with "a beverage consisting of"
+- Mark the word coffee as a favorite word by selecting the star button.
+- Select the back or navigate up button in the app (not Android's general back button) to go to the main page. Then open the menu by selecting the navigation drawer button.
+- In the menu, select "Word of the Day". Then on the new page, select the second word in the list.
+- On this page, listen to the pronunciation of the word by selecting the speaker button. Then read the first example of this word which is located under "Examples:" section.
+- Select the back or navigate up button in the app (not Android's general back button) to go to the main page. Then open the menu by selecting the navigation drawer button. In the menu, select "Favorites"
+- On the "Favorites" page you should see the word "Coffee" which was marked as a favorite in step 4. Remove this word by selecting the edit button, then select the word "Coffee", and finally select the "Delete" button.
+- After deleting "Coffee", the favorite page should be empty with a text in the middle saying" You don't have any favorites yet. Tap here to look up a word". Please select the "Tap here" link, and search for the word "Tea"

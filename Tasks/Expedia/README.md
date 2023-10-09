@@ -1,0 +1,10 @@
+- After opening the app for the first time, it shows an introduction page. Select the "Next" button until you reach the last screen. Then select "LET'S GO" button.
+- Close the sign-in page by selecting the "Close" button. On the main screen, select the "Flights" button.
+- On the form on the "Flights" page, select the "Flying from" button, type "New York" and select the first entry. Then it asks you for the destination or "Flying to". Type "Los Angeles" and select the first entry.
+- Once you enter the airports, the app shows a calendar window to select the departure date. Select August 23rd and August 26th buttons, and then press the "Done" button.
+- Now you should be on the Flights page. Change the traveler's number to 3 by selecting the Travelers button, then increase the number of adults by selecting the plus button two times. Then select the "Done" button.
+- Now you should be on the flight's page. Select the "Search" button. Once the search results are provided, Then go to the main screen by selecting the "Navigate up" (or back) button and then the "Close" button, this should close the flights page.
+- Select the "Cars" button. On the "Cars" page, select the "Pick-up" button and type "New York". Then select the first entry (which should be "New York").
+- On the Cars page, select the "Search" button. Then go to the main screen by selecting the "Navigate up" (or back) button and then the "Close" button.
+- Select the "Account" button. Under the "Settings" section, select "Choose a theme" button. Then select the "Dark" button and press "Done.
+- Select the "Trips" button and then select "Sign in or create free account"

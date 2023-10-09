@@ -1,0 +1,15 @@
+com.whatsapp
+com.amazon.mShop.android.shopping
+com.engro.cleanerforsns
+com.bingo.cooler.phonecleaner
+com.facebook.orca
+com.colpit.diamondcoming.isavemoney
+com.dictionary
+com.yelp.android
+com.offerup
+com.different.toonme
+com.zhiliaoapp.musically
+com.squareup.cash
+com.instagram.android
+com.mcdonalds.app
+com.snapchat.android

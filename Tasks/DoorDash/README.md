@@ -1,0 +1,10 @@
+- Select the "Continue as guest" button, type "New York" in the address bar, and select the first entry (which should be "New York")
+- In the address settings page, do not change anything and select "Save". Sometimes, a pop-up window will appear to inform you, "New! Send a gift to your loved ones". In that case, select "Go Back"
+- Select the "Search" button, and type "Chicken" in the search bar. Please do not hit enter or search button once you're done typing.
+- Select the second entry of the search result. In the restaurant page, save the restaurant by selecting the save button (with a heart icon). A window appears with the title "You've saved your first store"., In this window, select "View Saved Stores"
+- Remove the saved restaurant by selecting the save button (with a heart icon). After selecting, the button should be toggled.
+- Go back to the search screen by selecting the back or "Navigate up" button two times. Then Select the "Home" button.
+- Go to the grocery category page by selecting the "Grocery" button. Then select the first store.
+- Change the delivery option to pickup by selecting "Pickup" button (if you do not see the pickup button, try selecting another store). Once you select this button, the address of the store should be available below it under the title "This is a Pickup order"
+- Now select the info button (with an exclamation icon) under the name of the store. It should take you to a new screen with information of the store such as address and phone number.
+- Navigate back two times by selecting the "Navigate up" or back button, and finally select the "Orders" button. In the new screen, there should be a text "No recent orders".
