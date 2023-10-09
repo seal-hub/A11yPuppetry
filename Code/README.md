@@ -58,11 +58,11 @@ python3 replayer.py --debug --output-path "<OUTPUT_DIRECTORY>" --app-name "<APP_
 
   -  Specify the name of the script (default is **Untitled Script**), select the app name you want to record, specify the IP Address of the server (default is **localhost**). Then click Start Recording.
 
-    ![Start Recording Pop Up Window](Code/Python/py_src/Docs/Start%20Recording.png)
+    ![Start Recording Pop Up Window](Python/py_src/Docs/Start%20Recording.png)
 
   - Click an element shown on the current screen. The pop up window will appear to show you the corresponding information of the clicked element. If the information matches your clicked node, click **Yes** (The click operation will be executed **on behalf of you**). Otherwise, click **Cancel** and re-click your intended element.
 
-    ![Sugilite Confirmation Dialog](Code/Python/py_src/Docs/Confirmation%20Dialog.png)
+    ![Sugilite Confirmation Dialog](Python/py_src/Docs/Confirmation%20Dialog.png)
 
   - If you previsoaly clicked **Yes button** but Sugilite **failed** to perform the click operation on behalf of you, you can **re-click** your intended element and then click **Skip**(The click operation will be executed on behalf of you but **will not be reflected on the final script**)
 
@@ -75,7 +75,7 @@ python3 replayer.py --debug --usecase-path "<USECASE_PATH>" --package-name "<PKG
 ```
 The `<USECASE_PATH>` is a `.jsonl` file where each line is the JSON format of a `Command`, and the `<PKG_NAME>` is the package name of the app that is going to be replayed. Please update `pkg_name_to_apk_path` in `replayer.py` file to associate correct address to the package names since they will be installed in the replayer devices.
 - After running the recorder, it first sends the package_name to the server, then send the commands from the given usecase path one by one, then finishes the usecase by informing the server. The replayer will receive these commands and use the given controller (proxy user) to execute the commands.
-![Server State Diagram](Code/Python/py_src/Docs/AP-StateDiagram.png)
+![Server State Diagram](Python/py_src/Docs/AP-StateDiagram.png)
 
 ## A11yPuppetry CLI
 You can interact with TNAME7 by sending commands to its Broadcast Receiver or receive generated information from TNAME7 by reading files from the local storage. First, you need to enable TNAME7 by running `./scritps/enable-service.sh`, then you can send command by running `./scripts/send-command.sh <COMMAND> <EXTRA>`. If you want to work with TalkBack, first you need to enable it by running `./scritps/enable-talkback.sh`. If any command has an output written in a file, you can use `./scripts/wait_for_file.sh <FILE_NAME>` which prints the content of the file and removes it. It's encouraged to watch the logs in a separate terminal `adb logcat | grep "TNAME7_SERVICE"`. Here is the list of all commands:
